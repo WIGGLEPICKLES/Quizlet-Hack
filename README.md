@@ -1,5 +1,6 @@
 # Quizlet-Hack
 This hacks quizlet. Thank me later.
+I don't exactly know what I'm dong
 
 // ==UserScript==
 // @name         Quizlet Match Hacker
