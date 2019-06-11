@@ -11,6 +11,7 @@ This hacks quizlet. Thank me later.
 // @license MIT
 // ==/UserScript==
 
+
 //Ignore the variable gravityScore because it doesn't work any more, but I decided to keep the code here
 var gravityScore,
 	 href = window.location.href;
