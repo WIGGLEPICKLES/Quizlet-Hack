@@ -1,5 +1,6 @@
 # Quizlet-Hack
 This hacks quizlet. Thank me later.
+
 // ==UserScript==
 // @name         Quizlet Match Hacker
 // @namespace    WIGGLEPICKLES
